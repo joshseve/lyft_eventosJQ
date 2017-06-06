@@ -1,0 +1,21 @@
+#home{
+    background-image: url(https://media.giphy.com/media/a2QExYEHYCQJq/giphy.gif);
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+.principal{
+  background-color: purple;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.logoIndex{
+  height: 80px;
+  width: 100px;
+}
